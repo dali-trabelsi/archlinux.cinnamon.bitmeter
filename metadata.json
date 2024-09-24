@@ -1,0 +1,8 @@
+{
+  "uuid": "bitmeter@dali",
+  "name": "BitMeter",
+  "description": "Network speed monitor",
+  "icon": "network-transmit-receive",
+  "max-instances": "1",
+  "author": "dali"
+}
